@@ -8,6 +8,8 @@ sites:
       headers:
           - "x-api-key: kU7QOzmqbGPsA6Mrl1SGTY"
           - "Content-Type: application/json"
+    - name: Extranet Web (dev)
+      url: https://dev.extranet.cosmosweb.cloud/health
 status-website:
     # Add your custom domain name, or remove the `cname` line if you don't have a domain
     # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
