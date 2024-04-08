@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
     - name: Extranet Server (dev)
-      url: https://dev.server.extranet.cosmosweb.cloud/status
+      url: https://dev.server.extranet.cosmosweb.cloud/api/v0/status
       headers:
           -"x-api-key": "kU7QOzmqbGPsA6Mrl1SGTY"
           -"Content-Type": "application/json"
