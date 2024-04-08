@@ -6,19 +6,19 @@ sites:
     - name: Extranet Server (dev)
       url: https://dev.server.extranet.cosmosweb.cloud/api/v0/status
       headers:
-          -"x-api-key": "kU7QOzmqbGPsA6Mrl1SGTY"
-          -"Content-Type": "application/json"
-    - name: Wikipedia
-      url: https://en.wikipedia.org
-    - name: Hacker News
-      url: https://news.ycombinator.com
-    - name: Test Broken Site
-      url: https://thissitedoesnotexist.koj.co
-    - name: IPv6 test
-      url: forwardemail.net
-      port: 80
-      check: "tcp-ping"
-      ipv6: true
+          -"x-api-key: kU7QOzmqbGPsA6Mrl1SGTY"
+          -"Content-Type: application/json"
+    #- name: Wikipedia
+    #url: https://en.wikipedia.org
+    #- name: Hacker News
+    #url: https://news.ycombinator.com
+    #- name: Test Broken Site
+    #url: https://thissitedoesnotexist.koj.co
+    #- name: IPv6 test
+    #url: forwardemail.net
+    #port: 80
+    #check: "tcp-ping"
+    #ipv6: true
 
 status-website:
     # Add your custom domain name, or remove the `cname` line if you don't have a domain
