@@ -1,5 +1,10 @@
-h1,
-h2,
-p {
+html {
     user-select: none;
+}
+
+.logo {
+    transition: transform 0.3s ease;
+    &:hover {
+        transform: scale(1.02);
+    }
 }
