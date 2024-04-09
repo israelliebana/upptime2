@@ -24,5 +24,6 @@ status-website:
     navbar:
         - title: Status
           href: /
+    theme: custom-theme
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
