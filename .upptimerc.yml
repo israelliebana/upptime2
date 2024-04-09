@@ -56,3 +56,55 @@ i18n:
     degradedPerformance: "🟨 Rendimiento degradado"
     completeOutage: "🟥 Corte completo"
     partialOutage: "🟧 Corte parcial"
+    incidentReport: "Reporte de la incidencia #$NUMBER →"
+    activeIncidentSummary: Abierto a las $DATE con $POSTS posts
+    incidentTitle: Detalles de la incidencia $NUMBER
+    incidentDetails: Detalles de la incidencia
+    incidentFixed: Corregido
+    incidentOngoing: En curso
+    incidentOpenedAt: Abierto a las
+    incidentClosedAt: Cerrado a las
+    incidentViewOnGitHub: Ver y suscribir en GitHub
+    incidentCommentSummary: Publicado a las $DATE por $AUTHOR
+    incidentBack: ← Volver a todas las incidencias
+    pastIncidents: Incidencias pasadas
+    pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS posts
+    overallUptime: "Tiempo de actividad total: $UPTIME"
+    overallUptimeTitle: Tiempo de actividad total
+    averageResponseTime: "Tiempo medio de respuesta: $TIMEms"
+    averageResponseTimeTitle: Respuesta media
+    sevelDayResponseTime: Tiempo de respuesta durante 7 días
+    responseTimeMs: Tiempo de respuesta (ms)
+    loading: Cargando
+    navGitHub: GitHub
+    rateLimitExceededTitle: Límite de velocidad excedido
+    rateLimitExceededIntro: Has superado el número de peticiones máximo en 1 hora, por lo que tendrás que esperar antes de volver a acceder a este sitio web. Alternativamente, puedes agregar un Token de Acceso Personal de GitHub para seguir utilizando este sitio web.
+    rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+    rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. Por defecto, GitHub permite 60 solicitudes por hora para cada dirección IP, las cuales has consumido.
+    rateLimitExceededErrorHowCanFix: ¿Cómo puedo solucionarlo?
+    rateLimitExceededErrorFix: Puedes esperar otra hora y se restablecerá el límite de tu dirección IP. Alternativamente, puedes agregar tu Token de Acceso Personal de GitHub, que te proporciona 5,000 solicitudes adicionales por hora.
+    rateLimitExceededGeneratePAT: Aprende cómo generar un Token de Acceso Personal
+    rateLimitExceededHasSet: Tienes un token de acceso personal configurado.
+    rateLimitExceededRemoveToken: Eliminar token
+    rateLimitExceededGitHubPAT: Token de Acceso Personal de GitHub
+    rateLimitExceededCopyPastePAT: Copia y pega tu token
+    rateLimitExceededSaveToken: Guardar token
+    errorTitle: Se ha producido un error
+    errorIntro: Se ha producido un error al intentar obtener los detalles del estado más reciente.
+    errorText: Puedes intentarlo nuevamente en unos momentos.
+    errorHome: Ir a la página de inicio
+    pastScheduledMaintenance: Mantenimiento Programado Pasado
+    scheduledMaintenance: Mantenimiento Programado
+    scheduledMaintenanceSummaryStarted: Comenzó en $DATE por $DURATION minutos
+    scheduledMaintenanceSummaryStarts: Comienza en $DATE por $DURATION minutos
+    startedAt: Comenzó a las
+    startsAt: Comienza a las
+    duration: Duración
+    durationMin: $DURATION minutos
+    incidentCompleted: Completado
+    incidentScheduled: Programado
+    duration24H: 24h
+    duration7D: 7d
+    duration30D: 30d
+    duration1Y: 1a
+    durationAll: todos
