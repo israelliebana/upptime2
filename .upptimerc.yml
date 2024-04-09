@@ -23,7 +23,9 @@ status-website:
     introMessage: Real-time Data
     navbar:
         - title: Status
-          href: https://israelliebana.github.io/upptime2
+          href: /upptime2
     themeUrl: https://israelliebana.github.io/upptime2/custom-theme.css
+i18n:
+    footer: CosmosWeb Monitoring
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
