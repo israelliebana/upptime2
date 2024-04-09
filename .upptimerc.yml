@@ -3,12 +3,12 @@ owner: israelliebana # Your GitHub organization or username, where this reposito
 repo: upptime2 # The name of this repository
 
 sites:
-    - name: CosmosWeb Extranet Server (dev)
+    - name: Cosmos Web Extranet Server (dev)
       url: https://dev.server.extranet.cosmosweb.cloud/api/v0/status
       headers:
           - "x-api-key: kU7QOzmqbGPsA6Mrl1SGTY"
           - "Content-Type: application/json"
-    - name: CosmosWeb Extranet (dev)
+    - name: Cosmos Web Extranet (dev)
       url: https://dev.extranet.cosmosweb.cloud/health
     - name: DevFlexWork (dev)
       url: https://dev.devflexwork.com/api/health
@@ -19,7 +19,7 @@ status-website:
     baseUrl: /upptime2
     logoUrl: https://israelliebana.github.io/upptime2/cosmosweb-logo-v240w240h.avif
     favicon: https://israelliebana.github.io/upptime2/cosmosweb-logo-v240w240h.avif
-    name: CosmosWeb Monitoring
+    name: Cosmos Web Monitoring
     introTitle: "Status Page"
     introMessage: Real-time Data
     navbar:
@@ -30,6 +30,6 @@ status-website:
         - rel: stylesheet
           href: https://israelliebana.github.io/upptime2/custom-styles.css
 i18n:
-    footer: CosmosWeb Monitoring
+    footer: Cosmos Web Monitoring
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
