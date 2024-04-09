@@ -19,18 +19,18 @@ status-website:
     baseUrl: /upptime2
     logoUrl: https://israelliebana.github.io/upptime2/cosmosweb-logo-v240w240h.avif
     favicon: https://israelliebana.github.io/upptime2/cosmosweb-logo-v240w240h.avif
-    name: Cosmos Web Monitoring
-    introTitle: "Status Page"
-    introMessage: Real-time Data
+    name: Cosmos Web - Monitorización
+    introTitle: "Página de estado"
+    introMessage: Información en tiempo real
     navbar:
-        - title: Status
+        - title: Estado
           href: /upptime2
     themeUrl: https://israelliebana.github.io/upptime2/custom-theme.css
     links:
         - rel: stylesheet
           href: https://israelliebana.github.io/upptime2/custom-styles.css
 i18n:
-    footer: Cosmos Web Monitoring
+    footer: Cosmos Web - Monitorización
     activeIncidents: Incidentes activos
     allSystemsOperational: Todos los sistemas están operativos
 # Upptime also supports notifications, assigning issues, and more
