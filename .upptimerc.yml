@@ -17,13 +17,13 @@ status-website:
     # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
     #cname: demo.upptime.js.org
     baseUrl: /upptime2
-    logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-    name: CosmosWeb Upptime
+    logoUrl: https://israelliebana.github.io/upptime2/cosmosweb-logo-v240w240h.avif
+    name: CosmosWeb Monitoring
     introTitle: "Status Page"
     introMessage: Real-time Data
     navbar:
         - title: Status
-          href: /
+          href: https://israelliebana.github.io/upptime2
     themeUrl: https://israelliebana.github.io/upptime2/custom-theme.css
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
