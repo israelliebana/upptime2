@@ -4,19 +4,19 @@
     "url": "https://dev.server.extranet.cosmosweb.cloud/api/v0/status",
     "icon": "https://icons.duckduckgo.com/ip3/dev.server.extranet.cosmosweb.cloud.ico",
     "slug": "cosmos-web-extranet-server-dev",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 433,
-    "timeDay": 623,
-    "timeWeek": 433,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 430,
+    "timeDay": 392,
+    "timeWeek": 430,
+    "timeMonth": 430,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2024-04-10": 1
+      "2024-04-10": 3
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://dev.extranet.cosmosweb.cloud/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev.extranet.cosmosweb.cloud.ico",
     "slug": "cosmos-web-extranet-dev",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 771,
-    "timeDay": 963,
-    "timeWeek": 771,
-    "timeMonth": 771,
-    "timeYear": 771,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 754,
+    "timeDay": 547,
+    "timeWeek": 754,
+    "timeMonth": 754,
+    "timeYear": 754,
     "dailyMinutesDown": {
-      "2024-04-10": 1
+      "2024-04-10": 2
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://dev.devflexwork.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev.devflexwork.com.ico",
     "slug": "dev-flex-work-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 849,
-    "timeWeek": 704,
-    "timeMonth": 704,
-    "timeYear": 704,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 684,
+    "timeDay": 450,
+    "timeWeek": 684,
+    "timeMonth": 684,
+    "timeYear": 684,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 2
     }
   }
 ]
