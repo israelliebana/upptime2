@@ -4,53 +4,59 @@
     "url": "https://dev.server.extranet.cosmosweb.cloud/api/v0/status",
     "icon": "https://icons.duckduckgo.com/ip3/dev.server.extranet.cosmosweb.cloud.ico",
     "slug": "cosmos-web-extranet-server-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 433,
-    "timeDay": 433,
+    "timeDay": 623,
     "timeWeek": 433,
     "timeMonth": 433,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-10": 1
+    }
   },
   {
     "name": "Cosmos Web Extranet (dev)",
     "url": "https://dev.extranet.cosmosweb.cloud/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev.extranet.cosmosweb.cloud.ico",
     "slug": "cosmos-web-extranet-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 771,
-    "timeDay": 771,
+    "timeDay": 963,
     "timeWeek": 771,
     "timeMonth": 771,
     "timeYear": 771,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-10": 1
+    }
   },
   {
     "name": "DevFlexWork (dev)",
     "url": "https://dev.devflexwork.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev.devflexwork.com.ico",
     "slug": "dev-flex-work-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 704,
-    "timeDay": 704,
+    "timeDay": 849,
     "timeWeek": 704,
     "timeMonth": 704,
     "timeYear": 704,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-10": 0
+    }
   }
 ]
