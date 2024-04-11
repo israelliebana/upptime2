@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.server.extranet.cosmosweb.cloud.ico",
     "slug": "cosmos-web-extranet-server-dev",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 430,
     "timeDay": 392,
     "timeWeek": 430,
     "timeMonth": 430,
     "timeYear": 430,
-    "dailyMinutesDown": {
-      "2024-04-10": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cosmos Web Extranet (dev)",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.extranet.cosmosweb.cloud.ico",
     "slug": "cosmos-web-extranet-dev",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 754,
     "timeDay": 547,
     "timeWeek": 754,
     "timeMonth": 754,
     "timeYear": 754,
-    "dailyMinutesDown": {
-      "2024-04-10": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DevFlexWork (dev)",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.devflexwork.com.ico",
     "slug": "dev-flex-work-dev",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 684,
     "timeDay": 450,
     "timeWeek": 684,
     "timeMonth": 684,
     "timeYear": 684,
-    "dailyMinutesDown": {
-      "2024-04-10": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
