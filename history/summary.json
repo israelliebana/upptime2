@@ -40,7 +40,7 @@
     "url": "https://dev.devflexwork.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev.devflexwork.com.ico",
     "slug": "dev-flex-work-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 697,
     "timeMonth": 692,
     "timeYear": 692,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-22": 0
+    }
   }
 ]
